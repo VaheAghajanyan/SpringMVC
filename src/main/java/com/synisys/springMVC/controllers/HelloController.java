@@ -1,4 +1,4 @@
-package com.synisys.springMVC;
+package com.synisys.springMVC.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
